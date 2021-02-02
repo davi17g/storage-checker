@@ -1,7 +1,7 @@
 # storage-checker
  
  9.a Because this system deals a lot with I/O operations the concurrency 
- was one of the main concerns.
+ was one of the main concerns. </br>
  9.b 
    - ETag: In order to make sure that target file data stays unchanged between 
     samples - different file checksum points to file corruption - strong indicator to a problem in storage service.
